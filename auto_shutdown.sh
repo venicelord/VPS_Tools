@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TRAFF_TOTAL=800#改成自己的预定额度，建议稍小些，单位GB;
+TRAFF_TOTAL=800 #改成自己的预定额度，建议稍小些，单位GB;
 TRAFF_DAY_TOTAL=5 #改成自己的预定额度，建议稍小些，单位GB;
 
 
